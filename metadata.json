@@ -1,0 +1,6 @@
+{
+  "name": "Mas AI",
+  "description": "Create amazing images, videos, animations, and 3D models using next-generation AI with custom options, showcasing a face-swap feed, community submissions, and interactive helper assistant chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
